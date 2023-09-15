@@ -1,0 +1,1 @@
+{"name":"Local: subset_sum","url":"f:\\Phitron\\4. Introduction to Algorithm\\22. Knapsack\\subset_sum.cpp","tests":[{"id":1694720298202,"input":"4\n1 2 4 6\n6","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\Phitron\\4. Introduction to Algorithm\\22. Knapsack\\subset_sum.cpp","group":"local","local":true}

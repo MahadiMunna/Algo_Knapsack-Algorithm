@@ -1,0 +1,1 @@
+{"name":"Local: equal_sum_partition","url":"f:\\Phitron\\4. Introduction to Algorithm\\22. Knapsack\\equal_sum_partition.cpp","tests":[{"id":1694749267571,"input":"3\n1 10 7","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\Phitron\\4. Introduction to Algorithm\\22. Knapsack\\equal_sum_partition.cpp","group":"local","local":true}
